@@ -5,7 +5,6 @@
 Powered by **Claude Sonnet** + **LangGraph** + **LangChain** | Live NSE/BSE data via yfinance
 
 🌐 **Live Demo Page:** [pritamsonawane7798.github.io/india-stock-ai](https://pritamsonawane7798.github.io/india-stock-ai/)
-📦 **Repository:** [github.com/PritamSonawane7798/india-stock-ai](https://github.com/PritamSonawane7798/india-stock-ai)
 
 > **Portfolio Project** — Demonstrates applied [Claude Certified Architect](https://claudecertifications.com/claude-certified-architect/domains) concepts across all 5 exam domains.
 
